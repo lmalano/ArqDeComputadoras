@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Oct 23 16:06:59 2019
+# Process ID: 11876
+# Current directory: D:/Arquitectura de computadoras/TP1_ALUv1.0/TP1_ALUv1.1/TP1_ALUv1.0.runs/synth_1
+# Command line: vivado.exe -log OperadorPrincipal.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source OperadorPrincipal.tcl
+# Log file: D:/Arquitectura de computadoras/TP1_ALUv1.0/TP1_ALUv1.1/TP1_ALUv1.0.runs/synth_1/OperadorPrincipal.vds
+# Journal file: D:/Arquitectura de computadoras/TP1_ALUv1.0/TP1_ALUv1.1/TP1_ALUv1.0.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source OperadorPrincipal.tcl -notrace
